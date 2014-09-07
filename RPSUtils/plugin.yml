@@ -1,0 +1,14 @@
+#
+#YAML pour MineCity et RolePlaySpeciality
+#
+
+
+name: RolePlaySpecialityUtils
+main: helldragger.RPSUtils.RPSUPlugin
+version: 0.2
+author: Helldragger (RolePlaySpeciality creator)
+softdepend: [WorldGuard, WGCustomFlags]
+
+commands:
+  
+permissions:
