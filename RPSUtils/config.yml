@@ -1,0 +1,2 @@
+#Allow use of enderpearls to teleport in a forbidden region
+allow enderpearls: false
